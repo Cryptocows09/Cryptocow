@@ -1,0 +1,43 @@
+" dna " : " 0xd09244D84E8da28Ce15f178890D02d17e66e21F9 " , 
+
+" name " : " # cryptocow0 " , 
+
+" description " : " This is the description of your NFT project , remember to replace this " , 
+
+" image " : " ipfs :https://pin.ski/48ol4Yr " , 
+
+" edition " : 01 , 
+
+" date " : 1632939523181 , 
+
+" attributes " : [ 
+
+{ 
+
+} , 
+
+{ 
+
+" trait_type " : " Eyeball " , 
+
+" value " : " black  " 
+
+} , 
+
+{ 
+
+" trait_type " : " Background " ,
+
+ " value " : " Blue " 
+
+} , 
+
+{ 
+
+" trait_type " : " Eye color " , 
+
+" value " : " black  " 
+
+" trait_type " : " body " , 
+
+" value " : " white "
