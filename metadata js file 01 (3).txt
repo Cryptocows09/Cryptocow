@@ -1,0 +1,43 @@
+" dna " : " a74ce83c78a189222ae804c577c66e36531a1f0e " , 
+
+" name " : " # 8 " , 
+
+" description " : " This is the description of your NFT project , remember to replace this " , 
+
+" image " : " ipfs : //https:/https://pin.ski/48ol4Yr" , 
+
+" edition " : 8 , 
+
+" date " : 1632939523181 , 
+
+" attributes " : [ 
+
+{ 
+
+} , 
+
+{ 
+
+" trait_type " : " Eyeball " , 
+
+" value " : " black  " 
+
+} , 
+
+{ 
+
+" trait_type " : " Background " ,
+
+ " value " : " Blue " 
+
+} , 
+
+{ 
+
+" trait_type " : " Eye color " , 
+
+" value " : " black  " 
+
+" trait_type " : " body " , 
+
+" value " : " white "
